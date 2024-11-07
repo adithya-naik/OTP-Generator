@@ -2,7 +2,7 @@ body{
   /* display: flex; */
   /* justify-content: center; */
   /* align-items: center; */
-  margin: 20dvh;
+  margin: 20dvh 0px;
   background-color: rgb(228, 226, 224);
 }
 .content{
