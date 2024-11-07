@@ -2,7 +2,11 @@ body{
   /* display: flex; */
   /* justify-content: center; */
   /* align-items: center; */
+<<<<<<< HEAD
   margin: 20dvh 0px;
+=======
+ 
+>>>>>>> 82f7d6d8dd6d14c370aa0fd6c856a35a223ec548
   background-color: rgb(228, 226, 224);
 }
 .content{
